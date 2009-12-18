@@ -1,6 +1,6 @@
 %define name iwlwifi-agn-ucode
 %define version 1.0
-%define release %mkrel 3
+%define release %mkrel 4
 
 Summary: Intel Wireless WiFi Link microcode
 Name: %{name}
@@ -15,6 +15,7 @@ Requires: iwlwifi-1000-ucode
 Requires: iwlwifi-4965-ucode
 Requires: iwlwifi-5000-ucode
 Requires: iwlwifi-5150-ucode
+Requires: iwlwifi-6000-ucode
 
 %description
 This package requires other packages containing microcode needed to
