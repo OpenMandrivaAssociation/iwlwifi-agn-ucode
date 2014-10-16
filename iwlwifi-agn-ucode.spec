@@ -1,7 +1,7 @@
 Summary:	Intel Wireless WiFi Link microcode
 Name:		iwlwifi-agn-ucode
 Version:	1.0
-Release:	9
+Release:	10
 License:	Proprietary
 Group:		System/Kernel and hardware
 Url:		http://intellinuxwireless.org/
