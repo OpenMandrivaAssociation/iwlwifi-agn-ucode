@@ -4,7 +4,7 @@ Version:	1.0
 Release:	10
 License:	Proprietary
 Group:		System/Kernel and hardware
-Url:		http://intellinuxwireless.org/
+Url:		https://intellinuxwireless.org/
 BuildArch:	noarch
 Requires:	iwlwifi-100-ucode
 Requires:	iwlwifi-1000-ucode
